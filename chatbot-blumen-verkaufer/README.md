@@ -4,4 +4,4 @@ The programming language used is python.
 Here is an example of communication between the customer and the chatbot:
 
 
-![Example of a communication with the chatbot](https://github.com/ReDI-School/Munich-Demo-Day-Spring-2020/blob/master/chatbot-blumen-verkaufer/chtbot.png?raw=true)
+![Example of a communication with the chatbot](https://github.com/ReDI-School/Munich-Demo-Day-Spring-2020/blob/master/chatbot-blumen-verkaufer/chatbot.png?raw=true)
