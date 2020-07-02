@@ -4,6 +4,7 @@ By Slobodan Loncar
 
 ## Example
 
+```
 Welcome to Canteen, please add some credit on your Canteen Card!
 100
 
@@ -42,3 +43,4 @@ Your order costs: 1 x Pizza(4.0$) = 4.0\$
 Pick the item number for making your order! (for submitting or quiting type 10)
 10
 Your order has been placed! Your new card balance is: 92.0\$
+```
