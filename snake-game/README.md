@@ -4,4 +4,4 @@ The programming language used is python.
 Here is an example from the game:
 
 
-![Example](https://github.com/ReDI-School/Munich-Demo-Day-Spring-2020/blob/master/snake/Bildschirmvideo von 28.06.2020 20_31_15.mp4?raw=true)
+![Example](https://github.com/ReDI-School/Munich-Demo-Day-Spring-2020/blob/master/snake/Bildschirmvideo.mp4?raw=true)
