@@ -85,7 +85,7 @@ class BeachBot {
         if (numberOfexercises > 5) {
             System.out.println("\nGreat!! Calories will be melting!!\n");
         } else {
-            System.out.println("\nYou could do better!! \nHere are some additional exericises for you: \n20 push-ups, 20 pull-ups and 20 squats!!\n");
+            System.out.println("\nYou could do better!! \nHere are some additional exercises for you: \n20 push-ups, 20 pull-ups and 20 squats!!\n");
             
         }
     }

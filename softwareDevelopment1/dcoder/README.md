@@ -11,5 +11,5 @@ By Abraham Festus
  Enter Second Number:
 3
  Enter operator(+,-,×,÷):
--
+- 2
 ```
